@@ -4,6 +4,7 @@ Apollo related resources provided by community.
 ## Public speakings
 
 ## Videos
+* [Apollo分布式配置中心视频教程](https://study.163.com/course/introduction.htm?courseId=1209591801)
 
 ## Articles
 
