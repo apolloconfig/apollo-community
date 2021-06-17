@@ -5,6 +5,7 @@ Apollo related resources provided by community.
 
 ## Videos
 * [Apollo分布式配置中心视频教程](https://study.163.com/course/introduction.htm?courseId=1209591801)
+* [Java微服务开发之Apollo分布式配置中心详解传](https://www.bilibili.com/video/BV1yA411g75Q?p=1&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1623888510&unique_k=Ci0up5)
 
 ## Articles
 
