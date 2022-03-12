@@ -22,4 +22,8 @@ e.g. @some-github-user-name
 - PRs reviewed/authored
   - 
 - Issues responded to
-  -
+  - 
+
+### Sponsors
+
+e.g. @some-apollo-pmc-member
