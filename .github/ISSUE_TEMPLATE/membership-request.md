@@ -9,11 +9,11 @@ assignees: ''
 
 ### GitHub Username
 
-e.g. @some-user-name
+e.g. @some-github-user-name
 
 ### Requirements
 
-- [ ] I have reviewed the community membership guidelines (https://github.com/apolloconfig/apollo/blob/master/GOVERNANCE.md)
+- [ ] I have reviewed the [community membership guidelines](https://github.com/apolloconfig/apollo/blob/master/GOVERNANCE.md)
 - [ ] I have enabled 2FA on my GitHub account. See https://github.com/settings/security
 - [ ] I am contributing (any of the following apply: issues, discussions, PRs, reviews) to 1 or more Apollo repositories
 
